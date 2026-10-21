@@ -1,0 +1,35 @@
+{
+  "name": "colloquialify",
+  "version": "0.1.0",
+  "description": "Claude/Cursor skill that humanizes AI writing while preserving a person's voice via a persistent voice.md profile. Baseline passes from humanize-writing; Colloquialify adds voice-profile analysis and Pass 9 consistency.",
+  "main": "install-skill.js",
+  "scripts": {
+    "postinstall": "node install-skill.js",
+    "preuninstall": "node uninstall-skill.js",
+    "install-skill": "node install-skill.js",
+    "uninstall-skill": "node uninstall-skill.js"
+  },
+  "keywords": [
+    "claude",
+    "skill",
+    "agent",
+    "writing",
+    "humanize",
+    "voice",
+    "style",
+    "colloquialify"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victornasar/colloquialify.git"
+  },
+  "files": [
+    "SKILL.md",
+    "references/",
+    "templates/",
+    "eval/SCORING.md",
+    "install-skill.js",
+    "uninstall-skill.js"
+  ]
+}

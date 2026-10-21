@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+*.tgz
+.env
+
+# Personal voice layer lives in private repo victornasar/colloquialify-voice
+# (local symlinks are fine; never commit them here)
+my-samples
+voice.md
+!eval/corpus/voice.md
+!templates/voice.md
