@@ -48,12 +48,16 @@ AI draft  →  Passes 1–8  →  Pass 9 voice consistency  →  output (Mode B)
 
 | Path | Role |
 |-|-|
-| [SKILL.md](SKILL.md) | Agent skill: modes + Passes 1–9 |
+| [SKILL.md](SKILL.md) | Thin router: philosophy, modes, pointers |
+| [references/baseline-passes.md](references/baseline-passes.md) | Passes 1–8 detail |
+| [references/pass-9-voice.md](references/pass-9-voice.md) | Pass 9 + preserve / read-aloud |
+| [references/output-and-example.md](references/output-and-example.md) | Changes table + full example |
 | [references/ai-tells.md](references/ai-tells.md) | Baseline AI-tell checklist (from humanize-writing) |
 | [references/voice-profile.md](references/voice-profile.md) | How to build/apply profiles |
 | [templates/voice.md](templates/voice.md) | Profile schema |
 | [eval/](eval/) | A/B/C rubric + small test corpus |
 | [install-skill.js](install-skill.js) | Copies skill into Claude/Cursor/Windsurf/agents dirs |
+| [skills/cold-email/](skills/cold-email/) | Bundled cold-email skill (modular `SKILL.md` + `references/`) |
 
 ### Minimal implementation choice
 
@@ -70,6 +74,8 @@ npm run install-skill
 ```
 
 Or copy `SKILL.md`, `references/`, and `templates/` into your agent's skills directory as `colloquialify/`.
+
+`npm run install-skill` also installs the bundled [cold-email](skills/cold-email/) skill as a top-level `cold-email` skill (agents discover skills as siblings under `~/.cursor/skills/`, not nested under colloquialify).
 
 ---
 

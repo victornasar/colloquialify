@@ -230,10 +230,10 @@ AI makes every bullet point the same grammatical structure and similar length.
 
 The tell is both frequency and function. Count before flagging -- don't assume density from a general impression.
 
-- **Frequency:** More than one em dash per 3-4 paragraphs is above human baseline
-- **Function:** Even a single em dash is a tell if it's doing the classic AI move: injecting a dramatic explanatory aside mid-sentence (e.g., "the system -- designed to handle millions of requests -- struggled under load")
+- **Hard ban:** Any em dash (—) or `--` aside is an AI slop tell. Do not keep even one "stylish" dash.
+- Classic form: injecting a dramatic explanatory aside mid-sentence (e.g., "the system -- designed to handle millions of requests -- struggled under load")
 
-**Fix:** Use periods. Use commas. Actually count em dashes before claiming overuse.
+**Fix:** Prefer a period + new sentence, or a line break. Commas/parentheses only if needed. Strip every em dash on the final pass.
 
 ---
 
@@ -266,7 +266,7 @@ Score the piece on these dimensions. 5+ hits = likely AI-generated:
 - [ ] Has "It's worth noting" or similar filler phrases
 - [ ] Every section follows the same structure
 - [ ] "Not X, but Y" appears more than twice
-- [ ] Em dashes appear more than once per 3-4 paragraphs, or a single em dash injects a dramatic aside
+- [ ] Any em dash (—) or `--` aside remains (hard ban)
 - [ ] No sentences under 8 words
 - [ ] No informal or colloquial language anywhere
 - [ ] Conclusion is perfectly balanced (good news/bad news/inspiring close)

@@ -1,0 +1,11 @@
+{
+  "name": "cold-email",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Bundled colloquialify skill: short problem-discovery cold emails.",
+  "main": "install-skill.js",
+  "scripts": {
+    "install-skill": "node install-skill.js",
+    "uninstall-skill": "node uninstall-skill.js"
+  }
+}

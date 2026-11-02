@@ -20,3 +20,8 @@ for (const dir of SKILL_DIRS) {
     console.warn(`Skipped ${dir}: ${err.message}`);
   }
 }
+
+const bundled = path.join(__dirname, "skills", "cold-email", "uninstall-skill.js");
+if (fs.existsSync(bundled)) {
+  require(bundled);
+}

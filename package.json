@@ -17,7 +17,8 @@
     "humanize",
     "voice",
     "style",
-    "colloquialify"
+    "colloquialify",
+    "cold-email"
   ],
   "license": "MIT",
   "repository": {
@@ -29,6 +30,7 @@
     "references/",
     "templates/",
     "eval/SCORING.md",
+    "skills/",
     "install-skill.js",
     "uninstall-skill.js"
   ]
