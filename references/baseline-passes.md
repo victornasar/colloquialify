@@ -20,6 +20,20 @@ AI loves formulas. The same section shape repeated ten times. Every paragraph bu
 - Merge the "what this means" into the main text instead of calling it out separately.
 - Replace formulaic challenge/outlook sections with specific facts.
 
+#### Repeated beat template in sub-sections
+
+**Flag when** 3 or more sibling sub-sections follow the same internal beat order, e.g. problem → "Build something that…" → "The buyer is…". Each one reads like a filled-in slot.
+
+**Fix:** Change the order or shape of at least one. Lead one with the evidence, one with the buyer, cut a beat from another. Rewording the same slots in the same order does not count.
+
+#### Too-neat summary bullets
+
+**Flag when** a list of 3–6 items has every item opening with the same kind of phrase (same subject, same verb form, same "The X is…") **and** item lengths fall within about 30% of each other.
+
+**Fix:** Break the pattern in at least one item. Make it longer, frame it differently, or fold it into the surrounding prose.
+
+**Exempt:** lists of names, numbers or data (company + count, specs, prices). Their sameness is the content. Do not reshape them.
+
 **Before:**
 > Despite its industrial prosperity, Korattur faces challenges typical of urban areas, including traffic congestion and water scarcity. Despite these challenges, with its strategic location and ongoing initiatives, Korattur continues to thrive as an integral part of Chennai's growth.
 
@@ -130,12 +144,14 @@ AI writes in a metronomic cadence. Medium sentence. Medium sentence. Medium sent
 - No short punchy sentences (under 8 words)
 - No longer flowing sentences that build momentum
 - Every sentence starting with a noun or "The"
+- Repeated first-person openers: 3 or more consecutive paragraphs or bold leads starting with the same construction ("I'd…", "I would…", "I think…"), or the same opener on more than half the paragraphs in one section. Two in a row is normal.
 
 **How to fix it:**
 - Throw in some short ones. "That's new." "It works." "Not anymore."
 - Let some sentences run a bit longer when the idea needs room to breathe.
 - Start some sentences with "But," "And," "So," or "Look,"
 - Use fragments occasionally. They're fine in non-academic writing.
+- For repeated first-person openers, vary how the speaker enters: lead with the claim, the evidence, or the reader, and keep the "I" for the sentences that are actually opinion.
 
 #### Em dashes (hard ban)
 

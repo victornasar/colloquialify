@@ -35,6 +35,8 @@ Check at least:
 - Preserve factual content and claims; change manner, not meaning.
 - Keep the ask in words the profile shows this writer would say. Leave the recipient's trade vocabulary out unless the profile shows those words. A routing question asks who to talk to, in ordinary language. Do not recast it as who has or owns the role. If a polish softens the writer's verb into corporate interest-language, or adds an em dash, keep the writer's line.
 
+**Before the final gate:** Scan once for the three structure tells: repeated first-person openers (Pass 5), repeated beat template in sub-sections and too-neat summary bullets (Pass 1). Fix any that fire.
+
 **Final gate:** Re-read the finished draft once and answer only this: *Would this person actually write this this way?* If no, fix the offending spans. If yes, stop. Do not keep polishing into over-humanization.
 
 ---
