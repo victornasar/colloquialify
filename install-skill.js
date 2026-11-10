@@ -18,6 +18,7 @@ const filesToCopy = [
   path.join("references", "baseline-passes.md"),
   path.join("references", "pass-9-voice.md"),
   path.join("references", "output-and-example.md"),
+  path.join("references", "open-hiring-dm.md"),
   path.join("templates", "voice.md"),
   path.join("eval", "SCORING.md"),
   path.join("skills", "cold-email", "SKILL.md"),
