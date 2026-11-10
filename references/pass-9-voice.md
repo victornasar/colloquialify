@@ -33,6 +33,7 @@ Check at least:
 - If the profile is concise, cut explanatory padding the baseline may have left.
 - If the profile is explanatory, do not over-trim into telegram style.
 - Preserve factual content and claims; change manner, not meaning.
+- Keep the ask in words the profile shows this writer would say. Leave the recipient's trade vocabulary out unless the profile shows those words. A routing question asks who to talk to, in ordinary language. Do not recast it as who has or owns the role. If a polish softens the writer's verb into corporate interest-language, or adds an em dash, keep the writer's line.
 
 **Final gate:** Re-read the finished draft once and answer only this: *Would this person actually write this this way?* If no, fix the offending spans. If yes, stop. Do not keep polishing into over-humanization.
 
@@ -46,6 +47,7 @@ After all passes, read the piece out loud (or imagine reading it to a colleague)
 - Makes you cringe slightly
 - Feels like it's trying too hard to sound smart
 - Could have been written about literally any topic by swapping a few nouns
+- Borrows the recipient's job words, or asks who has or owns a role, instead of who to talk to
 
 **With a voice profile:** also flag anything the profiled writer would not say — even if it sounds generically natural.
 

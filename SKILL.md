@@ -104,10 +104,13 @@ Follow [eval/SCORING.md](eval/SCORING.md).
 | Full AI-tell word list | [references/ai-tells.md](references/ai-tells.md) |
 | How to build `voice.md` | [references/voice-profile.md](references/voice-profile.md) |
 | Profile schema | [templates/voice.md](templates/voice.md) |
+| Open-hiring / “DM me” job outreach | [references/open-hiring-dm.md](references/open-hiring-dm.md) |
 
 For Mode B, always load **baseline-passes** before drafting. Load **pass-9-voice**
 when a profile is present. Load **output-and-example** for the Changes table
-shape (and the full example only if stuck).
+shape (and the full example only if stuck). When the user is messaging someone
+who posted that hiring or applications are open, also load **open-hiring-dm**
+and prefer that shape over cold-email intrigue questions.
 
 ## Credits
 
