@@ -35,7 +35,7 @@ Check at least:
 - Preserve factual content and claims; change manner, not meaning.
 - Keep the ask in words the profile shows this writer would say. Leave the recipient's trade vocabulary out unless the profile shows those words. A routing question asks who to talk to, in ordinary language. Do not recast it as who has or owns the role. If a polish softens the writer's verb into corporate interest-language, or adds an em dash, keep the writer's line.
 
-**Before the final gate:** Scan once for the three structure tells: repeated first-person openers (Pass 5), repeated beat template in sub-sections and too-neat summary bullets (Pass 1). Fix any that fire.
+**Before the final gate:** Scan once for the structure tells: repeated first-person openers and aphorism closers (Pass 5); repeated beat template, too-neat summary bullets, essay chopped into sub-headings, TL;DR bullets, throat-clearing opener, same point twice, and criteria with no worked example (Pass 1); "X is not Y" density (Pass 4); a close that walks back the thesis (Pass 6). Fix any that fire. These matter most on long-form posts, where they stack.
 
 **Final gate:** Re-read the finished draft once and answer only this: *Would this person actually write this this way?* If no, fix the offending spans. If yes, stop. Do not keep polishing into over-humanization.
 

@@ -40,6 +40,36 @@ AI loves formulas. The same section shape repeated ten times. Every paragraph bu
 **After:**
 > Traffic congestion increased after 2015 when three new IT parks opened. The municipal corporation began a stormwater drainage project in 2022 to address recurring floods.
 
+#### Essay chopped into sub-headings
+
+**Flag when** a piece of prose has a sub-heading over most paragraphs, so each section is a heading plus one short paragraph. It reads like a listicle wearing an essay's clothes. Headings phrased as mini-theses ("X is not Y", "They pay once") make it worse.
+
+**Fix:** Keep the top-level sections. Drop most sub-headings and let the paragraphs run as an argument, with the claim in the first sentence of each paragraph instead of in a heading above it. Keep a sub-heading only where a reader would actually jump to it.
+
+#### TL;DR bullets under the opener
+
+**Flag when** the opening states the thesis and then repeats it as a "The short version:" / "Key takeaways:" / "In short:" bullet list before the piece starts.
+
+**Fix:** Cut the list. If one bullet says something the thesis doesn't, fold it into the opening paragraph as a sentence.
+
+#### Throat-clearing opener
+
+**Flag when** the first paragraph explains why the writer is writing (what they read, what they wrote before, what everyone else said) before the writer's position shows up.
+
+**Fix:** Lead with the claim being answered and the writer's position. Move any needed context after it, in one sentence, or cut it.
+
+#### Same point twice
+
+**Flag when** two sections make the same argument from slightly different angles (the user's view, then the buyer's view of the same thing). AI pads structure this way to fill a heading.
+
+**Fix:** Merge them into one paragraph and keep the stronger example. Do not keep both and add a bridging sentence.
+
+#### Criteria with no worked example
+
+**Flag when** a piece gives a list of rules, tests, or criteria and never applies them to a single case.
+
+**Fix:** Apply them once to a real case from the source text or the writer's own material. **Never invent an anecdote, customer, number, or event to fill the gap.** If no real case exists, use an obviously hypothetical one and say so in the text ("Say you sell…"), or flag the gap to the user instead of writing one in.
+
 ---
 
 ### Pass 2: Strip Significance Inflation and Promotional Language
@@ -109,6 +139,8 @@ AI tacks present participle phrases onto sentences to add fake depth: "highlight
 
 **Fix:** In a short piece (under 1000 words), once is plenty. In a longer piece, twice is fine. The issue is when it becomes a structural crutch.
 
+Count the bare forms too: "X is not Y," "A is not B," "Those are not the same thing," "They ask for X, not Y." When these show up in headings and in body text of the same piece, they stack into one strong tell. Say what the thing is instead of what it isn't.
+
 #### Rule of three overuse
 
 AI forces ideas into groups of three where the third item is clearly padding: "innovation, inspiration, and insights." Tricolons are one of the oldest rhetorical devices in human writing ("life, liberty, and the pursuit of happiness"), so don't flag every group of three -- flag groups where the third item adds nothing or is a near-synonym of the first two.
@@ -176,6 +208,14 @@ Lists where every item starts with a bolded header followed by a colon.
 
 **After:**
 > The update improves the interface, speeds up load times through optimized algorithms, and adds end-to-end encryption.
+
+A checklist the reader is meant to use can stay a list. Drop the bold labels and let each item start with the plain claim.
+
+#### Aphorism closers
+
+**Flag when** more than about one paragraph in four ends on a quotable two-beat line: "A guess is cheap. Being right is the work." / "The software can be copied. The machine can't." / "That care is still a job." One is a voice. Six is a template.
+
+**Fix:** Keep the best one, usually at the end of the piece. For the rest, end the paragraph on the concrete fact before the stamp, or fold the point into the previous sentence.
 
 #### Title case in headings
 
@@ -252,6 +292,12 @@ Text meant as chatbot correspondence gets pasted as content: "I hope this helps!
 "The future looks bright," "Exciting times lie ahead," "Only time will tell."
 
 **Fix:** End with a specific fact or plan, or just stop.
+
+#### Close that walks back the thesis
+
+**Flag when** the last paragraph adds doubt about the main claim ("I could be wrong," "only time will tell," "who knows") after the piece argued it firmly.
+
+**Fix:** Keep honest uncertainty, but aim it at what is actually unknown (what to build, when) and leave the claim standing. Do not swap real doubt for fake confidence.
 
 ---
 
