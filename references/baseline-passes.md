@@ -64,6 +64,18 @@ AI loves formulas. The same section shape repeated ten times. Every paragraph bu
 
 **Fix:** Merge them into one paragraph and keep the stronger example. Do not keep both and add a bridging sentence.
 
+#### Textbook-balanced scaffold
+
+**Flag when** an argument piece is laid out as matched halves with matched weight: "What I agree with / What I don't / So what", "Pros / Cons / Verdict", "The case for / The case against". Clean symmetry reads as a template, especially when the writer clearly cares more about one side.
+
+**Fix:** Let the structure follow the argument. Put the part the writer actually wants to argue first or give it the most room. Fold the concessions into a few lines without a heading. Name sections by what they claim ("Where he's wrong"), not by their slot.
+
+#### Restated across sections
+
+**Flag when** the same idea shows up in the opener, a body section, and the close in slightly different words, or when a list in one section repeats the items of a list in another.
+
+**Fix:** Say it once where it does the most work. Later mentions point back in a clause or get cut.
+
 #### Criteria with no worked example
 
 **Flag when** a piece gives a list of rules, tests, or criteria and never applies them to a single case.
@@ -209,7 +221,13 @@ Lists where every item starts with a bolded header followed by a colon.
 **After:**
 > The update improves the interface, speeds up load times through optimized algorithms, and adds end-to-end encryption.
 
-A checklist the reader is meant to use can stay a list. Drop the bold labels and let each item start with the plain claim.
+A checklist the reader is meant to use can stay a list. Drop the bold labels and let each item start with the plain claim. If it's the writer's own filter, write it as the questions they ask themselves, with their answer where they have one, so it reads as a habit and not a framework.
+
+#### Over-polish
+
+**Flag when** every sentence is competent, mid-length, and evenly measured, and the tone never moves, even in the parts where the writer is arguing against something they care about. Clean but flat reads as "human plus heavy AI editing."
+
+**Fix:** Do not add typos, slang, or fake sarcasm. Instead: let the writer's real disagreement sound like disagreement (one blunt sentence where they push back hardest), keep any odd but clear phrasing from the source instead of smoothing it, and let a few sentences run long or stop short. With a voice profile, use the intensity and phrasings the profile shows for arguments; without one, one or two blunt lines per piece is the ceiling.
 
 #### Aphorism closers
 
