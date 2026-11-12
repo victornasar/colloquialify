@@ -2,8 +2,9 @@
 
 Bundled skill inside the **colloquialify** package (`skills/cold-email/`).
 
-Short problem-discovery cold emails: direct about being a solo builder, one easy
-intrigue question, no call asks or soft pitch.
+Short problem-discovery cold emails: trade opens with `Hi {First},`, problem-first
+vertical + wrong-thing spine, one easy intrigue question, no call asks or soft
+pitch.
 
 ## Package shape
 

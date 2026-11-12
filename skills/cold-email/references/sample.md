@@ -5,16 +5,16 @@ Facts to keep; wording to vary. Do not ship near-copies of this sample.
 ```
 mode: trade
 
-subject: Where scheduling still fights the tools
+subject: Estimates vs the board
 
 body:
-I'm a solo developer building AI tools for service businesses. Trying to
-understand real ops friction in HVAC before I build the wrong thing.
+Hi Nick,
 
-When the board gets full, what still forces the most manual workaround:
-customer callbacks, or getting the right tech to the right job with the right
-info?
+Looking at owner-run electrical shops before I build the wrong thing.
 
-chars: ~240
+When you're both estimating and running jobs, what costs more time right now:
+getting numbers out the door, or keeping customers updated once work starts?
+
+chars: ~235
 send: Pacific business hours
 ```

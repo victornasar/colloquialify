@@ -17,6 +17,7 @@ const filesToCopy = [
   path.join("references", "rules-and-shape.md"),
   path.join("references", "cta-and-batch.md"),
   path.join("references", "sample.md"),
+  path.join("references", "hire-outreach.md"),
 ];
 
 for (const destDir of SKILL_DIRS) {

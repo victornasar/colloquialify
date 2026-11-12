@@ -26,9 +26,11 @@ Hard fail and rewrite if a name/role swap would make two emails interchangeable.
 
 Across the set you must have:
 
-- **Different opening moves** (vary identity wording; never identical arcs)
+- **Different opening moves** (vary the problem-first vertical beat; never
+  identical arcs). Trade batch: `Hi {First},` is shared form, not a stock phrase
+  fail — vary what follows.
 - **Different concrete tensions** (not the same pain rephrased per role title)
 - **Zero shared stock phrases** (no repeated disclaimers, identical closers,
-  or copy-pasted identity sentences)
-- Most openings still hit the sharp spine: wrong thing / anything dumb / don’t
-  ship the wrong thing
+  or copy-pasted vertical sentences)
+- Most openings still hit the sharp spine: problem-first vertical + before I
+  build the wrong thing (prefer over product-first “I build software…”)

@@ -1,57 +1,79 @@
 ---
 name: cold-email
 description: >-
-  Draft short cold emails for problem-discovery outreach: direct about being a
-  solo builder learning real friction, one easy intrigue question, no call asks
-  or soft pitch. Supports skeptic vs trade modes and a hard anti-sameness batch
-  gate. Use for cold email, outreach, intro email, or cold DM that should read
-  like email.
+  Draft short cold emails for problem-discovery outreach or hire outreach to
+  recruiters and hiring managers. Discovery: solo builder, real friction, one
+  easy intrigue question, no call asks. Hire: who you are, why this person, what
+  you want, resume + portfolio links, one unique insight. Supports skeptic vs
+  trade modes and a hard anti-sameness batch gate. Use for cold email, outreach,
+  intro email, job intro, or cold DM that should read like email.
 ---
 
 # Cold Email
 
 Optimize for a **door-open reply**, not a booked call and not a demo.
-A short concrete pain in reply is a win; depth comes after.
 
 **North star: the simpler, the better.** Cut first. Only keep a detail if the
 email is unintelligible without it.
 
-**Purpose:** solo builder doing problem discovery in a vertical you don’t fully
-understand. Not booking demos.
+## Purposes
 
-**Middle path (always):** who you are (solo AI builder) + why (friction before
-you build the wrong thing) + one sharp easy question. No call asks. No em dashes.
+Pick from context (user can override).
 
-These are taste, not gospel. Full say/don’t-say and positioning detail:
+### Discovery (default)
+
+Solo builder learning real friction in a vertical you don’t fully understand.
+Not booking demos.
+
+**Middle path (trade):** `Hi {First},` + problem-first vertical + before you
+build the wrong thing + one sharp easy question. Prefer problem-first over
+“I build software…”. No call asks. No em dashes.
+
+Aim under **240 characters**. Full say/don’t-say:
 [references/intention.md](references/intention.md).
+
+### Hire
+
+Cold note to a recruiter or hiring manager about a role.
+
+**Framework:** who you are → why you’re emailing **this** person → what you’re
+looking for → resume link → portfolio link → one unique insight. No call asks.
+No em dashes. Links are allowed; length can pass 240.
+
+Full shape: [references/hire-outreach.md](references/hire-outreach.md).
+
+If they already posted that hiring or DMs are open, prefer colloquialify’s
+**open-hiring-dm** shape instead of this full framework.
 
 ## When to load more
 
 | Need | Open |
 |------|------|
-| Rules, shape, skeptic/trade modes, cut list, scope | [references/rules-and-shape.md](references/rules-and-shape.md) |
-| CTA design, AI-relevant tensions, batch anti-sameness | [references/cta-and-batch.md](references/cta-and-batch.md) |
-| Shape-only sample (do not parrot) | [references/sample.md](references/sample.md) |
+| Rules, skeptic/trade modes, cut list, scope | [references/rules-and-shape.md](references/rules-and-shape.md) |
+| Discovery CTA + batch anti-sameness | [references/cta-and-batch.md](references/cta-and-batch.md) |
+| Hire / recruiter framework | [references/hire-outreach.md](references/hire-outreach.md) |
+| Discovery shape-only sample (do not parrot) | [references/sample.md](references/sample.md) |
+| Discovery positioning | [references/intention.md](references/intention.md) |
 
-Read **rules-and-shape** and **cta-and-batch** before drafting. Read **sample**
-only if you need a shape check. Read **intention** when positioning is unclear
-or the user pushes toward stealth or sales.
+Always read **rules-and-shape**. For discovery, also read **cta-and-batch**
+(and **intention** when positioning is unclear). For hire, also read
+**hire-outreach**.
 
 ## Workflow
 
-1. Pick **skeptic** or **trade** (see rules-and-shape).
-2. Who it’s for + one easy, AI-relevant, specific tension. Ignore call CTAs;
-   reframe.
-3. Draft **subject**: intent + light curiosity (not clickbait, not generic).
-4. Draft **body**: sharp middle-path identity (varied wording, no em dashes) +
-   blank line + one concrete forced-choice or situation-bound question.
-5. If batch (N>1): run the **batch gate** in cta-and-batch; rewrite failures.
-6. Proofread once for typos, jargon, and leftover em dashes.
-7. Note send window if their timezone is known; else ask or skip.
+1. Pick **purpose**: discovery or hire.
+2. Pick **skeptic** or **trade** (see rules-and-shape).
+3. Draft **subject** and **body** for that purpose.
+4. If batch (N>1): run the **batch gate** in cta-and-batch; rewrite failures.
+5. Proofread once for typos, jargon, and leftover em dashes.
+6. Note send window if their timezone is known; else ask or skip.
 
 ## Output
 
+Discovery:
+
 ```
+purpose: discovery
 mode: skeptic | trade
 
 subject: …
@@ -60,6 +82,21 @@ body:
 …
 
 chars: N/240
+send: their business hours (timezone if known)
+```
+
+Hire:
+
+```
+purpose: hire
+mode: skeptic | trade
+
+subject: …
+
+body:
+…
+
+chars: N
 send: their business hours (timezone if known)
 ```
 

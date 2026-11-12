@@ -122,6 +122,8 @@ Colloquialify adds personalized voice-profile preservation on top of that baseli
 ## Related Skills
 
 - **cold-email** ([skills/cold-email/](skills/cold-email/)): Problem-discovery
-  cold emails; bundled here; install publishes top-level `cold-email`
+  cold emails, plus hire outreach (who / why me / what you want / resume /
+  portfolio / one insight); bundled here; install publishes top-level
+  `cold-email`
 - **copy-editing**: Broader marketing copy quality (use after humanizing)
 - **copywriting**: Writing new copy from scratch

@@ -27,6 +27,7 @@ const filesToCopy = [
   path.join("skills", "cold-email", "references", "rules-and-shape.md"),
   path.join("skills", "cold-email", "references", "cta-and-batch.md"),
   path.join("skills", "cold-email", "references", "sample.md"),
+  path.join("skills", "cold-email", "references", "hire-outreach.md"),
 ];
 
 for (const destDir of SKILL_DIRS) {
