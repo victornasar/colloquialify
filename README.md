@@ -16,7 +16,7 @@ Not:
 
 ### How the current humanization workflow works
 
-The skill is a static rulebook the host agent follows (`SKILL.md`). There is no model training and no detector API.
+The skill is a static rulebook that the host agent follows (`SKILL.md`). There is no model training and no detector API.
 
 **Baseline (unchanged from humanize-writing) — Passes 1–8:**
 
