@@ -3,7 +3,7 @@ node_modules/
 *.tgz
 .env
 
-# Personal voice layer lives in private repo victornasar/colloquialify-voice
-# (local symlinks are fine; never commit them here)
+# Personal voice layer lives in a private repo (not this one).
+# Local symlinks are fine; never commit them here.
 /my-samples
 /voice.md

@@ -72,14 +72,14 @@ I'm a full-stack engineer (React, TypeScript, Node, Postgres) with experience
 owning production applications end to end. I'd welcome the chance to contribute
 to the team.
 
-Portfolio: https://www.nasarissa.com
-GitHub: https://github.com/victornasar
+Portfolio: https://yoursite.example
+GitHub: https://github.com/yourhandle
 
 I've attached my resume. Would you be able to route this to the appropriate
 hiring manager?
 
 Thank you,
-Nasar Issa
+Your Name
 ```
 
 ### Startup / hiring-manager example (shape only — do not parrot)
@@ -88,12 +88,11 @@ Nasar Issa
 I'm a full-stack engineer. I'm emailing because you hire for [team/role], and I
 want the [exact role].
 
-Resume: https://nasarissa.com
-Work: https://github.com/victornasar
+Resume: https://yoursite.example
+Work: https://github.com/yourhandle
 
 [One concrete line about their product or problem that a name-swap would break.]
 ```
-
 ## Cut
 
 - Mission / passion / “join the frontier” fluff
